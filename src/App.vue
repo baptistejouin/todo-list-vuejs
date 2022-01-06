@@ -6,5 +6,5 @@ import "spectre.css";
 </script>
 
 <template>
-<TodoApp></TodoApp>
+<TodoApp/>
 </template>
